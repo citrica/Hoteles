@@ -1,2 +1,0 @@
-# Hoteles
-Práctica 0
