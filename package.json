@@ -1,0 +1,25 @@
+{
+    "name": "Hoteles",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "rimraf dist && parcel ./src/index.html --open",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/citrica/Hoteles.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/citrica/Hoteles/issues"
+    },
+    "homepage": "https://github.com/citrica/Hoteles#readme",
+    "devDependencies": {
+        "parcel": "^2.0.0-beta.2",
+        "rimraff": "0.0.1-security"
+    }
+}
